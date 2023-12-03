@@ -29,6 +29,7 @@
 
 
 ### 지역별 관광지 검색 건수 시각화
-![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/19ef3386-5c20-478b-a0ae-3109c5545fbf)
+![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/16f14f35-ead3-4a6b-959a-dae9970dc26d)
+
 
 
