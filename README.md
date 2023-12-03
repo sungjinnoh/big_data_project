@@ -17,18 +17,25 @@
 
 
 ### 시도별 방문자수 시각화
+시도별 방문자 수를 바 차트로 시각화 하였습니다.
+![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/97e09262-f038-492c-9af8-ebfc81efd19e)
 
 
 
 ### 연령별 남성 및 여성 방문자 시각화
+연령별 남성 및 여성 방문자 비율을 스택드 바 차트로 시각화 하였습니다.
+![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/e9d20a94-b895-46b6-88de-18ddb8a86886)
 
 
 
 ### 시도별 관광지출액 시각화
+시도별 관광지출액을 파이 차트로 시각화 하였습니다.
+![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/21cc1a42-2cf2-4433-a8f8-f5f5cc11c367)
 
 
 
 ### 지역별 관광지 검색 건수 시각화
+지역별 관광지 검색 건수를 버블 차트로 시각화 하였습니다.
 ![image](https://github.com/sungjinnoh/big_data_project/assets/113610509/16f14f35-ead3-4a6b-959a-dae9970dc26d)
 
 
